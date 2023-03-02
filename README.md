@@ -8,6 +8,7 @@ I have created this simple HelloWorld serverless application using Ruby 3.2.1 to
 
 ## Dependencies
 * rbenv
+* aws_lambda_ric
 * httparty
 * dotenv
 * docker
