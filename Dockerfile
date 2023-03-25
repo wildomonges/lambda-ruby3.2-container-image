@@ -1,8 +1,5 @@
 FROM amazonlinux:2023
 
-# Set ruby version to install
-ARG RUBY_VERSION=3.2.1
-
 # Define custom function directory
 ARG FUNCTION_DIR="/function"
 
