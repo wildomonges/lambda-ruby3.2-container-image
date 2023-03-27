@@ -7,7 +7,6 @@ I have created this simple HelloWorld serverless application using Ruby 3.2.1 to
 * `hello_word:` folder where the lambda code is implemented
 
 ## Dependencies
-* rbenv
 * aws_lambda_ric
 * httparty
 * dotenv
